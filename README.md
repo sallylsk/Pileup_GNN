@@ -1,5 +1,5 @@
 # Pileup_GNN
-This repository is the implementation in PyTorch for the paper "Semi-supervised Graph Neural Networks for Pileup Per Particle Identification".
+This repository is the implementation in PyTorch for the paper [Semi-supervised Graph Neural Networks for Pileup Noise Removal](https://arxiv.org/abs/2203.15823) by Tianchun Li, Shikun Liu, Yongbin Feng, Garyfallia Paspalaki, Nhan Tran, Miaoyuan Liu, Pan Li.
 
 ## Datasets ##
 - Fast simulation datasets are the dataset from Pileup mitigation at the Large Hadron Collider
